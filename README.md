@@ -2,7 +2,7 @@
 
 I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You made a mistake coming here but since you have come all the way here, why not check out my repos too? xD <br>
 
-#Ping me here! 
+# Ping me here! 
 <br>
 <a href = "mailto:swaroopbhat710@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href = "https://www.linkedin.com/in/swaroop710/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>

@@ -9,7 +9,7 @@ I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You 
 <a href = "http://instagram.com/soupystic_7" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://discordapp.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-## 🏆 GitHub Stats (I'm better than this)
+## 🏆 GitHub Stats (I'm better than this. Trust me xD)
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Soupy710&count_private=true&theme=tokyonight)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupy710&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)

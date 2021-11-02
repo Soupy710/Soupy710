@@ -16,4 +16,3 @@ I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soupy710&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<img alt="Swaroopy error" src="https://activity-graph.herokuapp.com/graph?username=Soupy710&theme=github"/>

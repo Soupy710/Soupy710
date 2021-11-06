@@ -10,7 +10,7 @@ I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You 
 <a href="https://discordapp.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 ## 🏆 GitHub Stats (Trust me I'm better than this xD)
-![Swaroop's Github stats](https://github-readme-stats.vercel.app/api?username=Soupy710&theme=github_darkk&show_icons=true))
+![Swaroop's Github stats](https://github-readme-stats.vercel.app/api?username=Soupy710&theme=vision-friendly-dark&show_icons=true))
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupy710&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 

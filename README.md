@@ -10,8 +10,9 @@ I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You 
 <a href="https://discordapp.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 ## 🏆 GitHub Stats (Trust me I'm better than this xD)
-![Swaroop's Github stats](https://github-readme-stats.vercel.app/api?username=Soupy710&theme=vision-friendly-dark&show_icons=true))
+![Swaroop's Github stats](https://github-readme-stats.vercel.app/api?username=Soupy710&theme=vision-friendly-dark&show_icons=true&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupy710&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupy710&card_width=495&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soupy710&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soupy710&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+

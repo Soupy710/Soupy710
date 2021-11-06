@@ -14,5 +14,4 @@ I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupy710&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soupy710&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soupy710&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

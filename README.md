@@ -12,6 +12,6 @@ I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You 
 ## 🏆 GitHub Stats (Trust me I'm better than this xD)
 ![Swaroop's Github stats](https://github-readme-stats.vercel.app/api?username=Soupy710&theme=vision-friendly-dark&show_icons=true))
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupy710&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupy710&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soupy710&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

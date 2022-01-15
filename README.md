@@ -1,6 +1,6 @@
 # Hey There!
 
-I'm a Computer Science student pursing B.Tech at PES University, Bangalore. You made a mistake coming here but since you have come all the way here, why not check out my repos too? xD <br>
+I'm a Computer Science student pursuing B.Tech at PES University, Bangalore. The page rank probability of you reaching this page is close to 0. But since you made it here despite low probability, why not check out my repos too before you leave xD <br>
 
 # Ping me here! 
 <br>
